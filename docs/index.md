@@ -93,6 +93,8 @@ end
 - [ ] hello, this is another todo item
 - [x] goodbye, this item is done
 
+Green Label
+{: .label .label-green }
 
 ### There's a horizontal rule below this.
 
