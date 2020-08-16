@@ -60,6 +60,11 @@ end
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
+| ID | Location | Description | 
+|:---|:---------|:------------|
+| 0019 | data/message_eur/str_table_e.pac | English strings table for various things such as items, armors, weapons and their descriptions. |
+
+
 ### There's a horizontal rule below this.
 
 * * *
