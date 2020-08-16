@@ -53,7 +53,7 @@ end
 
 ###### [](#header-6)Header 6
 
-| head1        | head two          | three <img width=500/>|
+| head1        | head two          | three<img width=500/>|
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice nice nice nice nice nice nice nice nice nice nice nice nice nice nice nice nice nice nice nice nice nice  |
 | out of stock | good and plenty   | nice  |
