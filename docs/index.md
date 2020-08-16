@@ -74,7 +74,8 @@ end
   </thead>
   <tbody>
     <tr>
-      <td>em32.pac</td>
+      <td>Green Label
+{: .label .label-green }</td>
       <td>Poogie - Considered monster?</td>
     </tr>
     <tr>
