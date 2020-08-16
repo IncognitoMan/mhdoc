@@ -89,6 +89,11 @@ end
 | em32.pac | Poogie - Considered monster? |
 | em32/em32 | Poogie - Considered town poogie, for some reason not stored in pac... |
 
+- [ ] hello, this is a todo item
+- [ ] hello, this is another todo item
+- [x] goodbye, this item is done
+
+
 ### There's a horizontal rule below this.
 
 * * *
