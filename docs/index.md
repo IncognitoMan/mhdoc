@@ -55,7 +55,7 @@ end
 
 | head1        | head two          | three <img width=500/>|
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
+| ok           | good swedish fish | nice nice nice nice nice nice nice nice nice nice nice nice nice nice nice nice nice nice nice nice nice nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
