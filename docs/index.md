@@ -65,7 +65,32 @@ end
 | 0019 | data/message_eur/str_table_e.pac | English strings table for various things such as items, armors, weapons and their descriptions. |
 | 0039 | data/sound/se/Localize/snd_langselct.bd | English strings table for various things such as items, armors, weapons and their descriptions. |
 
-
+<table class="table table-striped table-hover">
+  <thead>
+    <tr>
+      <th width="10%">Offset</th>
+      <th width="10%">Size</th>
+      <th width="80%">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0x00</td>
+      <td>2</td>
+      <td>% Chance to get Reward</td>
+    </tr>
+    <tr>
+      <td>0x02</td>
+      <td>2</td>
+      <td>Item ID</td>
+    </tr>
+    <tr>
+      <td>0x04</td>
+      <td>2</td>
+      <td>Amount</td>
+    </tr>
+  </tbody>
+</table>
 
 ### There's a horizontal rule below this.
 
