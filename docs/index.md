@@ -94,8 +94,23 @@ end
 - [ ] hello, this is another todo item
 - [x] goodbye, this item is done
 
-Green Label
+Default label
+{: .label }
+
+Blue label
+{: .label .label-blue }
+
+Stable
 {: .label .label-green }
+
+New release
+{: .label .label-purple }
+
+Coming soon
+{: .label .label-yellow }
+
+Deprecated
+{: .label .label-red }
 
 ### There's a horizontal rule below this.
 
