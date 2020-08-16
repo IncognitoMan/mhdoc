@@ -84,6 +84,11 @@ end
   </tbody>
 </table>
 
+| Offset | Description | 
+|:---|:---------|
+| em32.pac | Poogie - Considered monster? |
+| em32/em32 | Poogie - Considered town poogie, for some reason not stored in pac... |
+
 ### There's a horizontal rule below this.
 
 * * *
