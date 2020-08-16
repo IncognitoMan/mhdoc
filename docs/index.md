@@ -68,9 +68,9 @@ end
 <table class="table table-striped table-hover">
   <thead>
     <tr>
-      <th width="10%">Offset</th>
-      <th width="10%">Size</th>
-      <th width="80%">Description</th>
+      <th width="5%">Offset</th>
+      <th width="5%">Size</th>
+      <th width="90%">Description</th>
     </tr>
   </thead>
   <tbody>
