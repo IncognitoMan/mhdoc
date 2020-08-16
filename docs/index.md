@@ -68,26 +68,18 @@ end
 <table class="table table-striped table-hover">
   <thead>
     <tr>
-      <th width="5%">Offset</th>
-      <th width="5%">Size</th>
+      <th width="10%">Offset</th>
       <th width="90%">Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>0x00</td>
-      <td>2</td>
-      <td>% Chance to get Reward</td>
+      <td>em32.pac</td>
+      <td>Poogie - Considered monster?</td>
     </tr>
     <tr>
-      <td>0x02</td>
-      <td>2</td>
-      <td>Item ID</td>
-    </tr>
-    <tr>
-      <td>0x04</td>
-      <td>2</td>
-      <td>Amount</td>
+      <td>em32/em32</td>
+      <td>Poogie - Considered town poogie, for some reason not stored in pac...</td>
     </tr>
   </tbody>
 </table>
